@@ -24,4 +24,4 @@ Most operating systems, however, come with Python. To install the necessary pyth
 pip install -r requirements.txt
 ```
 ## Tutorial
-In [this notebook](https://github.com/ornldaac/daymet_normals_anomalies_years/blob/master/daymet_normals_anomalies_yearly_tiles.ipynb), the Daymet data is separated by year rather than aggregated into one t$
+In [this notebook](https://github.com/ornldaac/daymet_normals_anomalies_years/blob/master/daymet_normals_anomalies_yearly_tiles.ipynb), the Daymet data is separated by year rather than aggregated into one tile.
