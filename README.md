@@ -30,4 +30,4 @@ pip install -r requirements.txt
 ```
 
 ## Procedure
-In this tutorial the Daymet data is separated by year rather than aggregated into one tile. You can access the Jupyter Notebook [here]((https://github.com/ornldaac/daymet_normals_anomalies_years/blob/master/daymet_normals_anomalies_yearly_tiles.ipynb).
+In this tutorial the Daymet data is separated by year rather than aggregated into one tile. You can access the Jupyter Notebook [here](https://github.com/ornldaac/daymet_normals_anomalies_years/blob/master/daymet_normals_anomalies_yearly_tiles.ipynb).
