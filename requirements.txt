@@ -1,7 +1,7 @@
-Pydap==3.2.1
-numpy==1.22.0
-matplotlib==2.0.2
-ipython==8.10.0
-ipywidgets==7.1.0
+Pydap==3.3.0
+numpy==1.23.5
+matplotlib==3.6.3
+ipython==8.11.0
+ipywidgets==8.0.4
 jupyter==1.0.0
-basemap==1.0.7
+basemap==1.3.6
